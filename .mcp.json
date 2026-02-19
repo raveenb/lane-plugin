@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lane": {
+      "type": "http",
+      "url": "https://mcp.luminarylane.app/mcp",
+      "headers": {
+        "X-API-Key": "${LANE_API_KEY}"
+      }
+    }
+  }
+}

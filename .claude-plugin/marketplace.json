@@ -1,0 +1,20 @@
+{
+  "name": "luminary-lane",
+  "owner": {
+    "name": "Luminary Lane",
+    "email": "support@luminarylane.com"
+  },
+  "metadata": {
+    "description": "Brand intelligence for Claude — draft on-brand content, check voice alignment, and execute campaigns."
+  },
+  "plugins": [
+    {
+      "name": "luminary-lane",
+      "source": ".",
+      "description": "Connect Lane's brand intelligence to Claude for on-brand content creation.",
+      "version": "1.0.0",
+      "category": "marketing",
+      "tags": ["brand", "marketing", "content", "brand-voice", "campaigns"]
+    }
+  ]
+}
