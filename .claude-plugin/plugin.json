@@ -1,7 +1,7 @@
 {
   "name": "lane-cowork-plugin",
   "description": "Connect Claude to your Luminary Lane brand data for on-brand content creation",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": {
     "name": "Luminary Lane"
   },
