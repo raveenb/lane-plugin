@@ -14,10 +14,9 @@ Before installing this plugin, you need:
 
 ### Step 1: Generate an API Key
 
-1. Go to [luminarylane.app](https://luminarylane.app) and sign in
-2. Navigate to **Settings → API Keys**
-3. Click **Generate New Key**
-4. Copy the key (starts with `ll_mcp_`) — you won't be able to see it again
+1. Go to [app.luminarylane.app/profile/api-keys](https://app.luminarylane.app/profile/api-keys) and sign in
+2. Click **Generate New Key**
+3. Copy the key (starts with `ll_mcp_`) — you won't be able to see it again
 
 ### Step 2: Install the Plugin
 
@@ -129,7 +128,7 @@ The brand name must match exactly as it appears in your Lane dashboard. Run `/dr
 This can happen if you have multiple Claude Desktop windows open. Close unused windows or wait a few minutes for stale sessions to expire.
 
 ### "Authentication failed"
-Your API key may be invalid or revoked. Generate a new one from **Settings → API Keys** in the Lane dashboard.
+Your API key may be invalid or revoked. Generate a new one at [app.luminarylane.app/profile/api-keys](https://app.luminarylane.app/profile/api-keys).
 
 ## What's Next
 
