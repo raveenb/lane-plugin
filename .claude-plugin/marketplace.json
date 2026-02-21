@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "luminary-lane",
-      "source": ".",
+      "source": "./",
       "description": "Connect Lane's brand intelligence to Claude for on-brand content creation.",
       "version": "1.0.0",
       "category": "marketing",
